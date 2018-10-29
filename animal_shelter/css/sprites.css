@@ -1,0 +1,82 @@
+.cat-food, .ambulance, .ball, .bowl, .shampoo, .pills, .syringe, .leash, .sllep, .envelope, .telephone, .pin, .credit-card-(1){
+	background: url(sprites.png) no-repeat;
+}
+
+.cat-food{
+	background-position: 0 0;
+	width: 45px;
+	height: 57px;
+}
+
+.ambulance{
+	background-position: -60px 0;
+	width: 65px;
+	height: 65px;
+}
+
+.ball{
+	background-position: -140px 0;
+	width: 58px;
+	height: 58px;
+}
+
+.bowl{
+	background-position: -210px 0;
+	width: 58px;
+	height: 55px;
+}
+
+.shampoo{
+	background-position: -280px 0;
+	width: 30px;
+	height: 58px;
+}
+
+.pills{
+	background-position: -325px 0;
+	width: 64px;
+	height: 57px;
+}
+
+.syringe{
+	background-position: -400px 0;
+	width: 58px;
+	height: 58px;
+}
+
+.leash{
+	background-position: 0 -80px ;
+	width: 65px;
+	height: 57px;
+}
+
+.sllep{
+	background-position: -80px -80px ;
+	width: 54px;
+	height: 57px;
+}
+
+.envelope{
+	background-position: -155px -105px ;
+	width: 40px;
+	height: 26px;
+}
+
+.telephone{
+	background-position: -205px -105px ;
+	width: 40px;
+	height: 32px;
+}
+
+.pin{
+	background-position: -260px -105px ;
+	width: 26px;
+	height: 36px;
+}
+
+.credit-card-(1){
+	background-position: -310px -105px ;
+	width: 30px;
+	height: 24px;
+}
+
